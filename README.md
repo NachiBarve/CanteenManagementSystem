@@ -28,7 +28,7 @@ Its very easy to update information in Canteen Management System.
 10- Place an order.
 Menu Management System The menu management system will be available only to canteen employees and will, as the name suggests, allow them to manage the menu that is displayed to users of the web ordering system
 
-## output screenshots:
+## Output Screenshots:
 ![](image00.jpg)
 
 ![](image01.jpg)
